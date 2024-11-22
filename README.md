@@ -1,2 +1,2 @@
 # cv dl 
- cv and dl implementration on different real lifea datasets
+ cv and dl implementration on different real life datasets
